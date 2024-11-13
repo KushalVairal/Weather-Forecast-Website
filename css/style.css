@@ -52,15 +52,15 @@ header {
 
 /* Style the input field */
 #input { 
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 5px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
-    width: 70%;
-    margin-left: 10px;
+    width: 65%;
+    margin-right: 10px;
+    display: flex;
+    height: 25px;
+    flex-direction: initial;
    
     
 }
