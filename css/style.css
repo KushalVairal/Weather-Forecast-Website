@@ -51,19 +51,18 @@ header {
 }
 
 /* Style the input field */
-#input {
+#input { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
     width: 70%;
-    margin-right: 10px;
-
-    display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; 
-            margin: 0;
+    margin-left: 10px;
+   
+    
 }
 
 /* Style the button */
