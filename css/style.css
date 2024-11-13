@@ -58,6 +58,12 @@ header {
     font-size: 16px;
     width: 70%;
     margin-right: 10px;
+
+    display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; 
+            margin: 0;
 }
 
 /* Style the button */
